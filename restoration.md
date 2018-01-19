@@ -1,3 +1,5 @@
+# Restoration
+
 The Lantz Mill was purchased by the current owners on December 19, 2006 as a project in preservation and restoration for eventual use as an educational and historic site.  The mill was added to the National Register of Historic Places and the Virginia Landmarks Register on June 6, 2008.
 
 ![alt text]({{site.url}}{{site.baseurl}}/img/restoration/image7.jpg "The Lantz Mill as purchased on December 19, 2006")
@@ -64,7 +66,7 @@ Most of the mill’s machinery was still in place at the time of purchase but co
 
 Everything else remains in place including the Haggenmacher sifter, two round reel bolters, a middlings purifier, a dryer/blower, two flour chests, and all the augers, chutes and conveyers.
  
-Anyone who has any equipment or who knows where equipment can be had can contact the owners at lantzrollermill@gmail.com
+Anyone who has any equipment or who knows where equipment can be had can contact the owners at <lantzrollermill@gmail.com>
 
 
 
