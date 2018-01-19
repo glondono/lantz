@@ -1,0 +1,2 @@
+# lantz
+Lantz mill website
