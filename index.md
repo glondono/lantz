@@ -1,4 +1,7 @@
-# Welcome
+---
+layout: page
+title: Welcome
+---
 
 The Lantz Mill is a two-and-a-half-story frame building resting on an eight-foot-high limestone foundation that is thirty-six feet wide, forty-feet long, and twenty-four inches thick. The mill was built using post-and-beam construction with mortise-and-tenon joinery. A mixture of hand hewn and sawn members are visible on the interior and some posts are thirteen-by-thirteen inches thick.  The support posts on all the floors have chamfered corners.   The floor joists are set about one foot apart and are approximately ten inches wide and two to three inches thick.  The building is heavily engineered to sustain the weight of large quantities of stored grain and flour, as well as the strong vibrations of the machinery during operation.
 
