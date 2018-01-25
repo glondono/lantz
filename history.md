@@ -42,7 +42,7 @@ On August 22, 1959, William I. Wilkins went into bankruptcy and the mill was sol
 [^6]: Shenandoah County Court session of November 13, 1810; Shenandoah County Court Minute Book, 1810-1816., Shenandoah County Court House, Woodstock, Va. 
 [^7]: Peterson, Arthur, G., “The Alexandria Market Prior to the Civil War”, William and Mary Quarterly, 2nd Ser., Vol. 12, No. 2 (Apr., 1932), pp 107-108. 
 [^8]: Shenandoah County Deed Book W, p. 68, Shenandoah County Court House, Woodstock, Va. 
-[^9]: Shenandoah County Deed Book DD, p. 68, Shenandoah County Court House, Woodstock, Va. 
+[^9]:  Shenandoah County Deed Book DD, p. 68, Shenandoah County Court House, Woodstock, Va.
 [^10]: Lantz, Jacob Wissler, The Lantz Family Record, Cear Springs, Va., 1931, p. 49.  See Also Northern Neck Land Grants, N, 1766, reel 295, p. 264, Library of Virginia, Richmond, Va.   recorded under the surname “Long”. 
 [^11]: Shenandoah County Court Minute Book, 1781-1785, May 31, 1782, p. 54 Shenandoah County Court House, Woodstock, Va; and, Public Service Claims, Commissioner’s Book, V, November 27, 1783, p. 158, Library of Virginia, Richmond, Va. 
 [^12]: Shenandoah County Court Minute Book, 1806-1810, and 1810-1816, Shenandoah County Court House, Woodstock, Virginia. 
