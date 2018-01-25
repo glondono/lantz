@@ -40,37 +40,37 @@ On August 22, 1959, William I. Wilkins went into bankruptcy and the mill was sol
 [^4]: Shenandoah County Deed Book H, p. 222., Shenandoah County Court House, Woodstock, Va. 
 [^5]: Shenandoah County Will Book I, p. 84, Shenandoah County Court House, Woodstock, Va. 
 [^6]: Shenandoah County Court session of November 13, 1810; Shenandoah County Court Minute Book, 1810-1816., Shenandoah County Court House, Woodstock, Va. 
-[^7]:  Peterson, Arthur, G., “The Alexandria Market Prior to the Civil War”, William and Mary Quarterly, 2nd Ser., Vol. 12, No. 2 (Apr., 1932), pp 107-108. 
-[^8]:        Shenandoah County Deed Book W, p. 68, Shenandoah County Court House, Woodstock, Va. 
-[^9]:        Shenandoah County Deed Book DD, p. 68, Shenandoah County Court House, Woodstock, Va. 
-[^10]:       Lantz, Jacob Wissler, The Lantz Family Record, Cear Springs, Va., 1931, p. 49.  See Also Northern Neck Land Grants, N, 1766, reel 295, p. 264, Library of Virginia, Richmond, Va.   recorded under the surname “Long”. 
-[^11]:      Shenandoah County Court Minute Book, 1781-1785, May 31, 1782, p. 54 Shenandoah County Court House, Woodstock, Va; and, Public Service Claims, Commissioner’s Book, V, November 27, 1783, p. 158, Library of Virginia, Richmond, Va. 
-[^12]: 	 Shenandoah County Court Minute Book, 1806-1810, and 1810-1816, Shenandoah County Court House, Woodstock, Virginia. 
-[^13]:  	Shenandoah County Deed Book OO, p. 28, Shenandoah County Court House, Woodstock, Va. 
-[^14]:      Northern Neck Grants, P, 1771-1775, p. 120 and 261, respectively, reel 296, Library of Virginia, Richmond, Va. 
-[^15]:     Shenandoah County Deed Book 7, p. 209, Shenandoah County Court House, Woodstock, Va. 
-[^16]:      Ibid, p. 53 and 222. 
-[^17]: 	Thompson’s Mercantile and Professional Directory, Virginia, Shenandoah County, 1851. 
-[^18]:  	Wayland, John W., A History of Shenandoah County, Virginia, Shenando7ah Publishing House, Strasburg, Va., 1927, p. 292 
-[^19]:      Heatwole, John L., The Burning, Howell Press, Inc., Charlottesville, Virginia, 1998, p.180 
-[^20]:    Ibid. 
-[^21]:      Ibid., p IV-V 
-[^22]:      Ibid., p. 222. 
-[^23]:    Ibid., p 181. 
-[^24]:      1859 and 1866 Shenandoah County Tax Book, Nathan Barton District, page 30, Shenandoah County Court House, Woodstock, Va.
-[^25]:      The 1870 Nonpopulation Census Schedules for Shenandoah County, Virginia shows that the mill used two burh stone grinding machines; see  the 1870 Nonpopulation Census Schedules for Virginia 1850-1880, 1870 Industry Schedule, Publication Number T1132, microfilm roll 15, National Archives, Washington D.C.
-[^26]:     Dedrick, op. cit., pp.97-98.
-[^27]:     Conversation with Jennifer Bender-Moran a previous owner of the mill, based on her conversations with Anne Cottrell Free, deceased, a long-time resident of Lantz Mills.
-[^28]:     1867 Shenandoah County Tax Book, op. cit., p. 30.
-[^29]:     Nonpopulation Census Schedules for Virginia, 1850-1880, 1870 Industry Schedule, Publication Number T1132, microfilm roll 15, National Archives, Washington D.C.
-[^30]:     Nonpopulation Census Schedules for Virginia, 1850-1880, 1880 Industry Schedule, Publication Number T1132, microfilm roll 32, National Archives, Washington D.C.
-[^31]:     Lake, J.D. & Co., Atlas of Shenandoah and Page Counties, Virginia, 1885, reprinted by G.P. Hammond Publishing Co., Strasburg, Va., 1991, Madison Magisterial District.
-[^32]:     The exact date of the photograph is uncertain.  One can surmise it was taken between 1895 and 1898, as the house located on the far left of the photograph (today occupied by Mr. Earl Didawick Jr.) was constructed in 1895, and the Lantz Mills footbridge, constructed in 1898, is not visible in the photo.
-[^33]:     The two houses in question still exist and are the house Lantz rebuilt at the same time he rebuilt the mill in 1866 and which is a grand Victorian house located across Swover Creek Road from the Mill in which his widow lived until 1903, and an imposing brick colonial also across the road, built by George Lantz in 1842.
-[^34]:     Shenandoah County Deed Book 28, p. 21, Shenandoah County Court House, Woodstock, Va.
-[^35]:     Lantz, Jacob Wissler, The Lantz Family Record, Cedar Springs, Va., 1931, p. IV.
-[^36]:     Shenandoah County Deed Book 45, p. 316, Shenandoah County Court House, Woodstock, Va.
-[^37]:    Shenandoah County Deed Book 48, p. 350, Shenandoah County Court House, Woodstock, Va.
-[^38]:    Shenandoah County Deed Book 200, pp. 379-380, Shenandoah County Cou rt House, Woodstock, Va.
-[^39]:    Stoneburner, Paul, e-mail to Christopher Hernandez-Roy, April 2, 2005.
+[^7]: Peterson, Arthur, G., “The Alexandria Market Prior to the Civil War”, William and Mary Quarterly, 2nd Ser., Vol. 12, No. 2 (Apr., 1932), pp 107-108. 
+[^8]: Shenandoah County Deed Book W, p. 68, Shenandoah County Court House, Woodstock, Va. 
+[^9]: Shenandoah County Deed Book DD, p. 68, Shenandoah County Court House, Woodstock, Va. 
+[^10]: Lantz, Jacob Wissler, The Lantz Family Record, Cear Springs, Va., 1931, p. 49.  See Also Northern Neck Land Grants, N, 1766, reel 295, p. 264, Library of Virginia, Richmond, Va.   recorded under the surname “Long”. 
+[^11]: Shenandoah County Court Minute Book, 1781-1785, May 31, 1782, p. 54 Shenandoah County Court House, Woodstock, Va; and, Public Service Claims, Commissioner’s Book, V, November 27, 1783, p. 158, Library of Virginia, Richmond, Va. 
+[^12]: Shenandoah County Court Minute Book, 1806-1810, and 1810-1816, Shenandoah County Court House, Woodstock, Virginia. 
+[^13]: Shenandoah County Deed Book OO, p. 28, Shenandoah County Court House, Woodstock, Va. 
+[^14]: Northern Neck Grants, P, 1771-1775, p. 120 and 261, respectively, reel 296, Library of Virginia, Richmond, Va. 
+[^15]: Shenandoah County Deed Book 7, p. 209, Shenandoah County Court House, Woodstock, Va. 
+[^16]: Ibid, p. 53 and 222. 
+[^17]: Thompson’s Mercantile and Professional Directory, Virginia, Shenandoah County, 1851. 
+[^18]: Wayland, John W., A History of Shenandoah County, Virginia, Shenando7ah Publishing House, Strasburg, Va., 1927, p. 292 
+[^19]: Heatwole, John L., The Burning, Howell Press, Inc., Charlottesville, Virginia, 1998, p.180 
+[^20]: Ibid. 
+[^21]: Ibid., p IV-V 
+[^22]: Ibid., p. 222. 
+[^23]: Ibid., p 181. 
+[^24]: 1859 and 1866 Shenandoah County Tax Book, Nathan Barton District, page 30, Shenandoah County Court House, Woodstock, Va.
+[^25]: The 1870 Nonpopulation Census Schedules for Shenandoah County, Virginia shows that the mill used two burh stone grinding machines; see  the 1870 Nonpopulation Census Schedules for Virginia 1850-1880, 1870 Industry Schedule, Publication Number T1132, microfilm roll 15, National Archives, Washington D.C.
+[^26]: Dedrick, op. cit., pp.97-98.
+[^27]: Conversation with Jennifer Bender-Moran a previous owner of the mill, based on her conversations with Anne Cottrell Free, deceased, a long-time resident of Lantz Mills.
+[^28]: 1867 Shenandoah County Tax Book, op. cit., p. 30.
+[^29]: Nonpopulation Census Schedules for Virginia, 1850-1880, 1870 Industry Schedule, Publication Number T1132, microfilm roll 15, National Archives, Washington D.C.
+[^30]: Nonpopulation Census Schedules for Virginia, 1850-1880, 1880 Industry Schedule, Publication Number T1132, microfilm roll 32, National Archives, Washington D.C.
+[^31]: Lake, J.D. & Co., Atlas of Shenandoah and Page Counties, Virginia, 1885, reprinted by G.P. Hammond Publishing Co., Strasburg, Va., 1991, Madison Magisterial District.
+[^32]: The exact date of the photograph is uncertain.  One can surmise it was taken between 1895 and 1898, as the house located on the far left of the photograph (today occupied by Mr. Earl Didawick Jr.) was constructed in 1895, and the Lantz Mills footbridge, constructed in 1898, is not visible in the photo.
+[^33]: The two houses in question still exist and are the house Lantz rebuilt at the same time he rebuilt the mill in 1866 and which is a grand Victorian house located across Swover Creek Road from the Mill in which his widow lived until 1903, and an imposing brick colonial also across the road, built by George Lantz in 1842.
+[^34]: Shenandoah County Deed Book 28, p. 21, Shenandoah County Court House, Woodstock, Va.
+[^35]: Lantz, Jacob Wissler, The Lantz Family Record, Cedar Springs, Va., 1931, p. IV.
+[^36]: Shenandoah County Deed Book 45, p. 316, Shenandoah County Court House, Woodstock, Va.
+[^37]: Shenandoah County Deed Book 48, p. 350, Shenandoah County Court House, Woodstock, Va.
+[^38]: Shenandoah County Deed Book 200, pp. 379-380, Shenandoah County Cou rt House, Woodstock, Va.
+[^39]: Stoneburner, Paul, e-mail to Christopher Hernandez-Roy, April 2, 2005.
 
