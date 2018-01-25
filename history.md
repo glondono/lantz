@@ -1,7 +1,5 @@
 ![alt text]({{site.url}}{{site.baseurl}}/img/history/image1.jpg "Postcard of the hamlet of Lantz Mills from 1908")
 
-# History
-
 The first European pioneers to settle the area which would eventually become the village of Lantz Mills arrived in the 1750s.  The site became a prosperous mill village and a center of industry and commerce by the mid-19th century, with a post office, forge, harness shop, gristmill, sawmill, and cider mill, and a tannery in operation.  In the late 19th century, there was an important mercantile store operated by Jacob Clem, as well as a carpentry, woodworking, and casket making shop owned by William Christian.  Rifles marked “Kauffman” are known to have been made in the area, as were wooden washing machines[^1].  John B. Milligan operated a general store; George Rinehart ran a dry goods store; and Fadley Harrison and James Foltz operated a distillery. 
 
 The Lantz Mill today sits on a lot of slightly more than an acre in the center of the village.  The mill property, however, started out as a much larger property.  The first in the chain of deeds recorded in the Shenandoah County courthouse pertaining to the property is a land grant from the proprietors’ office of the Northern Neck of Virginia, dated October 8, 1766, which granted 372 acres to Peter Hollow (Holler).[^2]  Lord Fairfax, however, forfeited Holler’s grant and on November 21, 1770, gave 340 acres to Christopher Cofman.[^3]  In 1790, Holler purchased 200 acres back from Cofman.[^4] 
