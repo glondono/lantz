@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 baseurl: "/lantz"
 url: "http://glondono.github.io" 
 title: "Lanz Mills"
