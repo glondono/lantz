@@ -9,5 +9,3 @@ header_pages:
   - photos.md
   - location.md
   - contact.md
-plugins:
-  - jekyll-gallery-generator
