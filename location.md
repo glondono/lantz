@@ -1,4 +1,7 @@
-# Visit the Mill
+---
+layout: page
+title: Visit the Mill
+---
 
 The Lantz Mill is located at 95 Swover Creek Rd, approximately two miles west of Edinburg, VA, along Stony Creek.
 Visitor are welcome to come and look at the mill from the public roadway. The mill is not open to the public and the property, as well as adjacent properties, are posted with "No Trespassing" signs, which must be respected by law.
