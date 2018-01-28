@@ -69,7 +69,7 @@ Most of the mill’s machinery was still in place at the time of purchase but co
 
 Everything else remains in place including the Haggenmacher sifter, two round reel bolters, a middlings purifier, a dryer/blower, two flour chests, and all the augers, chutes and conveyers.
  
-Anyone who has any equipment or who knows where equipment can be had can contact the owners at [mailto](mailto:lantzrollermill@gmail.com)
+Anyone who has any equipment or who knows where equipment can be had can contact the owners at lantzrollermill@gmail.com
 
 
 
