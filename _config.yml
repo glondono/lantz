@@ -2,3 +2,8 @@ theme: "minima"
 baseurl: "/lantz"
 url: "http://glondono.github.io" 
 title: "Lanz Mills"
+header_pages:
+  - history.md
+  - restoration.md
+  - importance.md
+  - location.md
