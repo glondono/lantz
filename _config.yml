@@ -1,6 +1,13 @@
 theme: "minima"
-baseurl: "/lantz"
-url: "http://glondono.github.io" 
+url: "http://glondono.github.io/lanz"
+photos_historic_people: "http://glondono.github.io/lantz/photos/HistoricPeople/"
+photos_historic_mill: "http://glondono.github.io/lantz/photos/HistoricMill/"
+photos_prior_inside: "http://glondono.github.io/lantz/photos/PriorInside/"
+photos_prior_outside: "http://glondono.github.io/lantz/photos/PriorOutside/"
+photos_south_west_Wall: "http://glondono.github.io/lantz/photos/SouthWestWall/"
+photos_cribbing: "http://glondono.github.io/lantz/photos/Cribbing/"
+photos_restoration: "http://glondono.github.io/lantz/restoration/"
+photos_history: "http://glondono.github.io/lantz/history/"
 title: "Lanz Mills"
 header_pages:
   - history.md

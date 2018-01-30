@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Photographs
+historicpeople: {{site.url}}{{site.baseurl}}/img/src/HistoricPeople/
 ---
 
 ## Previous Owners of the Mill
-Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he purchased it in 1824); his son, Jacob Lantz Jr (1813-1883) who bought the mill in 1963; and William I Wilkins, who operated the mill as "Lantz Roller Mills from 1930 to 1959. 
+Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he purchased it in 1824); his son, Jacob Lantz Jr (1813-1883) who bought the mill in 1963; and William I Wilkins, who operated the mill as "Lantz Roller Mills from 1930 to 1959.
 
-[![alt text]({{site.url}}{{site.baseurl}}/img/src/george_2520lantz_tn.jpg "George Lantz")]({{site.url}}{{site.baseurl}}img/src/George%20Lantz_tn.jpg)
+[![alt text]({{site.photos_historic_people}}/thumbs/George%20Lantz_tn.jpg "George Lantz")]({{site.photos_historic_people}}George%20Lantz.jpg)
 
+[![alt text]({{site.photos_historic_people}}/thumbs/Jacob%20Lantz_tn.jpg "Jacob Lantz")]({{site.photos_historic_people}}Jacob%20Lantz.jpg);
+
+[![alt text]({{site.photos_historic_people}}/thumbs/Wiliam%20Wilkins_tn.jpg "William Wilkins")]({{site.photos_historic_people}}JWiliam%20Wilkins.jpg);
 
 ## Historic Photographs of the Mill
 Courtesy of Paul Stoneburner.
@@ -24,7 +28,7 @@ June-July, 2012
 ## Replacing some Weatherboard on the front of the Mill
 June-July, 2012
 
-## Taking down the Century-Old Sycamore 
+## Taking down the Century-Old Sycamore
 July 2013. We finally cut-down the century-old sycamore that was growing behind the mill.  The trunk was 17 feet in circumference at the base and had grown within 2 inches of the back of the mill.  Some of the branches hanging over the mill were the size of fully grown trees and with all of the powerful storms over the past few years (yes, due to global warming - don't deny it!) we decided, much to our chagrin, that the tree had to go!
 
 ## The Mill Prior to Restoration - Inside Photographs
