@@ -6,11 +6,9 @@ title: Photographs
 ## Previous Owners of the Mill
 Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he purchased it in 1824); his son, Jacob Lantz Jr (1813-1883) who bought the mill in 1963; and William I Wilkins, who operated the mill as "Lantz Roller Mills from 1930 to 1959.
 
-[![alt text]({{site.photos_historic_people}}/thumbs/George%20Lantz_tn.jpg "George Lantz")]({{site.photos_historic_people}}George%20Lantz.jpg)
-
-[![alt text]({{site.photos_historic_people}}/thumbs/Jacob%20Lantz_tn.jpg "Jacob Lantz")]({{site.photos_historic_people}}Jacob%20Lantz.jpg);
-
-[![alt text]({{site.photos_historic_people}}/thumbs/Wiliam%20Wilkins_tn.jpg "William Wilkins")]({{site.photos_historic_people}}JWiliam%20Wilkins.jpg);
+|George Lantz|Jacob Lantz|William Wilkins|
+|:-:|:-:|:-:|
+|[![alt text]({{site.photos_historic_people}}/thumbs/George%20Lantz_tn.jpg "George Lantz")]({{site.photos_historic_people}}George%20Lantz.jpg)|[![alt text]({{site.photos_historic_people}}/thumbs/Jacob%20Lantz_tn.jpg "Jacob Lantz")]({{site.photos_historic_people}}Jacob%20Lantz.jpg);|[![alt text]({{site.photos_historic_people}}/thumbs/Wiliam%20Wilkins_tn.jpg "William Wilkins")]({{site.photos_historic_people}}JWiliam%20Wilkins.jpg);
 
 ## Historic Photographs of the Mill
 Courtesy of Paul Stoneburner.
