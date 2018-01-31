@@ -8,10 +8,17 @@ Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he p
 
 |George Lantz|Jacob Lantz|William Wilkins|
 |:-:|:-:|:-:|
-|[![alt text]({{site.photos_historic_people}}/thumbs/George%20Lantz_tn.jpg "George Lantz")]({{site.photos_historic_people}}George%20Lantz.jpg)|[![alt text]({{site.photos_historic_people}}/thumbs/Jacob%20Lantz_tn.jpg "Jacob Lantz")]({{site.photos_historic_people}}Jacob%20Lantz.jpg);|[![alt text]({{site.photos_historic_people}}/thumbs/Wiliam%20Wilkins_tn.jpg "William Wilkins")]({{site.photos_historic_people}}JWiliam%20Wilkins.jpg);
+|[![alt text]({{site.photos_historic_people}}/thumbs/George%20Lantz_tn.jpg "George Lantz")]({{site.photos_historic_people}}George%20Lantz.jpg);
+|[![alt text]({{site.photos_historic_people}}/thumbs/Jacob%20Lantz_tn.jpg "Jacob Lantz")]({{site.photos_historic_people}}Jacob%20Lantz.jpg);
+|[![alt text]({{site.photos_historic_people}}/thumbs/Wiliam%20Wilkins_tn.jpg "William Wilkins")]({{site.photos_historic_people}}JWiliam%20Wilkins.jpg);
+
 
 ## Historic Photographs of the Mill
 Courtesy of Paul Stoneburner.
+
+{% for image in site.static_files %}
+  {{ image.path }}
+{% endfor %}
 
 ## Photos of the Restoration Process - Providing Support
 Railroad ties stacked as cribbing to provide structural support in the basement of the mill while the building is gently raised and leveled with hydraulic jacks.
