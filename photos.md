@@ -16,11 +16,12 @@ Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he p
 ## Historic Photographs of the Mill
 Courtesy of Paul Stoneburner.
 
-{% for image in site.static_files %}
+{% for image in site.photos_historic_mill %}
   {{ image.path }}
 {% endfor %}
 
-## Photos of the Restoration Process - Providing Support
+
+# Photos of the Restoration Process - Providing Support
 Railroad ties stacked as cribbing to provide structural support in the basement of the mill while the building is gently raised and leveled with hydraulic jacks.
 
 ## Photos of the Restoration Process - Rebuilding the South-West Wall
