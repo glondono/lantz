@@ -18,7 +18,7 @@ Courtesy of Paul Stoneburner.
 
 {% for image in site.static_files %}
     {% if image.path contains 'photos/HistoricMill' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        {{ image.path }}
     {% endif %}
 {% endfor %}
 
