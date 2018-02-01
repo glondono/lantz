@@ -19,7 +19,7 @@ Courtesy of Paul Stoneburner.
 <div class='gallery'>
 {% for image in site.static_files %}
     {% if image.path contains 'photos/HistoricMill' %}
-        <div class='gallery-item<>img src='{{site.url}}{{ image.path }}' /></div>
+        <div class='gallery-item'><img src='{{site.url}}{{ image.path }}' /></div>
     {% endif %}
 {% endfor %}
 </div>
