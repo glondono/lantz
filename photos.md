@@ -16,11 +16,13 @@ Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he p
 ## Historic Photographs of the Mill
 Courtesy of Paul Stoneburner.
 
+<div class='gallery'>
 {% for image in site.static_files %}
     {% if image.path contains 'photos/HistoricMill' %}
-        {{ image.path }}
+        <div class='gallery-item<>img src='{{site.url}}{{ image.path }}' /></div>
     {% endif %}
 {% endfor %}
+</div>
 
 
 # Photos of the Restoration Process - Providing Support
