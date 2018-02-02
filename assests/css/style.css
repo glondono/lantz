@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.gallery{
+  width: 80%;
+	margin: 30px auto;
+	overflow: hidden;
+}
+
+.gallery:after{
+  content: '';
+  clear:both;
+}
+
+.gallery-item{
+  float: left;
+}
+
+.gallery-item img{
+  max-width: 100%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}

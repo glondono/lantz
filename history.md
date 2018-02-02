@@ -3,7 +3,7 @@ layout: page
 title: History
 ---
 
-![alt text]({{site.photos_history}}image1.jpg "Postcard of the hamlet of Lantz Mills from 1908")
+![alt text]({{site.url}}\history\image1.jpg "Postcard of the hamlet of Lantz Mills from 1908")
 
 The first European pioneers to settle the area which would eventually become the village of Lantz Mills arrived in the 1750s.  The site became a prosperous mill village and a center of industry and commerce by the mid-19th century, with a post office, forge, harness shop, gristmill, sawmill, and cider mill, and a tannery in operation.  In the late 19th century, there was an important mercantile store operated by Jacob Clem, as well as a carpentry, woodworking, and casket making shop owned by William Christian.  Rifles marked “Kauffman” are known to have been made in the area, as were wooden washing machines[^1].  John B. Milligan operated a general store; George Rinehart ran a dry goods store; and Fadley Harrison and James Foltz operated a distillery.
 

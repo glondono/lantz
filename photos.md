@@ -9,7 +9,13 @@ Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he p
 <div class='gallery'>
 {% for image in site.static_files %}
     {% if image.path contains 'photos/HistoricPeople' %}
-        <div class='gallery-item'><img src='{{site.url}}{{ image.path }}' /></div>
+      {% unless image.path contains '_tn' %}
+        <div class='gallery-item'>
+          <a href="{{ image.path }}">
+            <img src="{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          </a>
+        </div>
+      {% endunless %}
     {% endif %}
 {% endfor %}
 </div>
@@ -21,17 +27,51 @@ Courtesy of Paul Stoneburner.
 <div class='gallery'>
 {% for image in site.static_files %}
     {% if image.path contains 'photos/HistoricMill' %}
-        <div class='gallery-item'><img src='{{site.url}}{{ image.path }}' /></div>
+      {% unless image.path contains '_tn' %}
+        <div class='gallery-item'>
+          <a href="{{ image.path }}">
+            <img src="{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          </a>
+        </div>
+      {% endunless %}
     {% endif %}
 {% endfor %}
 </div>
 
 
-# Photos of the Restoration Process - Providing Support
+## Photos of the Restoration Process - Providing Support
 Railroad ties stacked as cribbing to provide structural support in the basement of the mill while the building is gently raised and leveled with hydraulic jacks.
+
+<div class='gallery'>
+{% for image in site.static_files %}
+    {% if image.path contains 'photos/Cribbing' %}
+      {% unless image.path contains '_tn' %}
+        <div class='gallery-item'>
+          <a href="{{ image.path }}">
+            <img src="{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          </a>
+        </div>
+      {% endunless %}
+    {% endif %}
+{% endfor %}
+</div>
 
 ## Photos of the Restoration Process - Rebuilding the South-West Wall
 The South-West addition of the mill, built in the 1920s was too rotted to save. Since it was not historically significant, it was torn down on August 25, 2007, and the original wall of the mill was rebuilt.
+
+<div class='gallery'>
+{% for image in site.static_files %}
+    {% if image.path contains 'photos/SouthWestWall' %}
+      {% unless image.path contains '_tn' %}
+        <div class='gallery-item'>
+          <a href="{{ image.path }}">
+            <img src="{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          </a>
+        </div>
+      {% endunless %}
+    {% endif %}
+{% endfor %}
+</div>
 
 ## Restoration of the Rear Gable Wall and the Privy
 June-July, 2012
@@ -45,5 +85,34 @@ July 2013. We finally cut-down the century-old sycamore that was growing behind 
 ## The Mill Prior to Restoration - Inside Photographs
 All photos are of the inside of the mill and were taken in April and June of 2006 prior to the beginning of the restoration process.
 
+<div class='gallery'>
+{% for image in site.static_files %}
+    {% if image.path contains 'photos/PriorInside' %}
+      {% unless image.path contains '_tn' %}
+        <div class='gallery-item'>
+          <a href="{{ image.path }}">
+            <img src="{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          </a>
+        </div>
+      {% endunless %}
+    {% endif %}
+{% endfor %}
+</div>
+
 ## The Mill Prior to Restoration - Outside Photographs
 All photos are of the outside of the mill and were taken in December 2006 and spring 2007 prior to the beginning of the restoration process
+
+<div class='gallery'>
+{% for image in site.static_files %}
+    {% if image.path contains 'photos/PriorOutside
+    ' %}
+      {% unless image.path contains '_tn' %}
+        <div class='gallery-item'>
+          <a href="{{ image.path }}">
+            <img src="{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          </a>
+        </div>
+      {% endunless %}
+    {% endif %}
+{% endfor %}
+</div>
