@@ -11,8 +11,8 @@ Pictures of George Adam Lantz (1788-1869), the first Lantz to own the mill (he p
     {% if image.path contains 'photos/HistoricPeople' %}
       {% unless image.path contains '_tn' %}
         <div class='gallery-item'>
-          <a href="{{site.url}}{{ image.path }}">
-            <img src="{{site.url}}photos/HistoricPeople/{{ image.basename | append: '_th' | append: image.extname }}" alt="">
+          <a href="{{site.url}}/{{ image.path }}">
+            <img src="{{site.url}}/photos/HistoricPeople/{{ image.basename | append: '_tn' | append: image.extname }}" alt="">
           </a>
         </div>
       {% endunless %}
