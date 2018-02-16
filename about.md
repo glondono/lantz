@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 ---
 
 ![Mill front porch]({{site.url}}/importance/LantzMill_P12053.jpg)
