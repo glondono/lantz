@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.site-header{
+  background-color: #FFF;
+}
+
 .gallery{
   width: 80%;
   margin: 30px auto;
