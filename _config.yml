@@ -1,6 +1,7 @@
 theme: "minima"
 url: "https://glondono.github.io/lantz"
 title: "Lantz Mills"
+logo: "logo.png"
 header_pages:
   - about.md
   - history.md
