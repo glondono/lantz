@@ -17,7 +17,8 @@ title: Home
      $(function() {
       $('#slides').superslides({
         hashchange: true,
-        play: 2000
+        play: 5000,
+        animation_speed: 'slow'
       });
       $('#slides').on('mouseenter', function() {
         $(this).superslides('stop');
