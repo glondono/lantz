@@ -3,33 +3,27 @@ layout: home
 title: Home
 ---
 
-
 <div id="slides">
-  <ul class="slides-container">
-    <li>
-      <img src="https://raw.githubusercontent.com/nicinabox/superslides/0.6-stable/examples/images/affinity.jpeg" alt="">
-      <div class="container">
-        Slide one
-      </div>
-    </li>
-        <li>
-      <img src="https://raw.githubusercontent.com/nicinabox/superslides/0.6-stable/examples/images/cinelli-front.jpeg" alt="">
-      <div class="container">
-        Slide one
-      </div>
-    </li>
-  
-  </ul>
-  <nav class="slides-navigation">
-    <a href="#" class="next">Next</a>
-    <a href="#" class="prev">Previous</a>
-  </nav>
+  <div class="slides-container">
+     <img src="{{ "photos/HistoricMill/DB13.jpg" | relative_url }}" alt="">
+     <img src="{{ "photos/SouthWestWall/Mill Clean up-Aug25-07 052.jpg" | relative_url }}" alt="">
+     <img src="{{ "photos/PriorOutside/DSC_0182.jpg" | relative_url }}" alt="">
+  </div>
 </div>
 
   <script type="text/javascript" src="{{ "/assets/jquery-3.3.1.js" | relative_url }}"></script>
   <script type="text/javascript" src="{{ "/assets/jquery.superslides.js" | relative_url }}"></script>
   <script type="text/javascript">
-    $(document).ready(function(){
-      $('#slides').superslides()
+     $(function() {
+      $('#slides').superslides({
+        hashchange: true,
+        play: 2000
+      });
+      $('#slides').on('mouseenter', function() {
+        $(this).superslides('stop');
+      });
+      $('#slides').on('mouseleave', function() {
+        $(this).superslides('start');
+      });
     });
   </script>
