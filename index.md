@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: home
 title: Home
 ---
 
