@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+  <body>
+
+    {% include header.html %}
+
+  <div id="slides">
+  <ul class="slides-container">
+    {% for slide in page.slides %}
+    
+    <li>
+      <img src="{{ slide.image }}" alt="">
+      <div class="container">
+        <h1>{{ slide.title }}</h1>
+      </div>
+    </li>
+    
+    {% endfor %}
+  
+  </ul>
+  <nav class="slides-navigation">
+    <a href="#" class="next">Next</a>
+    <a href="#" class="prev">Previous</a>
+  </nav>
+</div>
+
+  </body>
+
+</html>
