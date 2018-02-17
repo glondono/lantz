@@ -5,8 +5,10 @@ title: Home
 
 <div id="slides">
   <div class="slides-container">
-     <img src="{{ "photos/HistoricMill/DB13.jpg" | relative_url }}" alt="">
+     <img src="{{ "photos/PriorOutside/DSC_0163.jpg" | relative_url }}" alt="">
+     <img src="{{ "photos/HistoricMill/S12.jpg" | relative_url }}" alt="">
      <img src="{{ "photos/SouthWestWall/Mill Clean up-Aug25-07 052.jpg" | relative_url }}" alt="">
+     <img src="{{ "photos/HistoricMill/DB13.jpg" | relative_url }}" alt="">
      <img src="{{ "photos/PriorOutside/DSC_0182.jpg" | relative_url }}" alt="">
   </div>
 </div>
