@@ -7,7 +7,7 @@ title: Home
 <div id="slides">
   <ul class="slides-container">
     <li>
-      <img src="http://flickholdr.com/1000/800" alt="">
+      <img src="https://raw.githubusercontent.com/nicinabox/superslides/0.6-stable/examples/images/affinity.jpeg" alt="">
       <div class="container">
         Slide one
       </div>
