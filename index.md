@@ -12,6 +12,12 @@ title: Home
         Slide one
       </div>
     </li>
+        <li>
+      <img src="https://raw.githubusercontent.com/nicinabox/superslides/0.6-stable/examples/images/cinelli-front.jpeg" alt="">
+      <div class="container">
+        Slide one
+      </div>
+    </li>
   
   </ul>
   <nav class="slides-navigation">
