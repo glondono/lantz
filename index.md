@@ -22,3 +22,8 @@ title: Home
 
   <script type="text/javascript" src="{{ "/assets/jquery-3.3.1.js" | relative_url }}"></script>
   <script type="text/javascript" src="{{ "/assets/jquery.superslides.js" | relative_url }}"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('#slides').superslides()
+    });
+  </script>
