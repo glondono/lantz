@@ -6,7 +6,12 @@ title: Home
 
 <div id="slides">
   <ul class="slides-container">
- 
+    <li>
+      <img src="http://flickholdr.com/1000/800" alt="">
+      <div class="container">
+        Slide one
+      </div>
+    </li>
   
   </ul>
   <nav class="slides-navigation">
