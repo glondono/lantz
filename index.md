@@ -22,11 +22,5 @@ title: Home
         play: 5000,
         animation_speed: 'slow'
       });
-      $('#slides').on('mouseenter', function() {
-        $(this).superslides('stop');
-      });
-      $('#slides').on('mouseleave', function() {
-        $(this).superslides('start');
-      });
     });
   </script>
