@@ -6,6 +6,15 @@
 
 .site-header {
   background-color: #FFF;
-  opacity: 0.8;
-  filter: alpha(opacity=80); /* For IE8 and earlier */
+  opacity: 0.95;
+  filter: alpha(opacity=95); /* For IE8 and earlier */
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:10;
+}
+
+.page-content {
+  padding : 30px;
+  margin-top: 120px;
 }
