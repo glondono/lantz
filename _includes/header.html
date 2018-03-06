@@ -4,11 +4,10 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     
-    {% if site.logo %}
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ site.logo }}"/></a>
-    {% else %}
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    {% endif %}
+    <h1>The Lantz Mill</h1>
+    <h2>Build c. 1813, Burned 1864, Rebuilt 1865 </h2>
+    <h3>A Virginia Historic Landmark and on the National Register of Historic Places</h3>
+    
     {% if page_paths %}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
