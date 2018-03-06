@@ -5,16 +5,71 @@
 @import "superslides.css";
 
 .site-header {
-  background-color: #FFF;
-  opacity: 0.95;
-  filter: alpha(opacity=95); /* For IE8 and earlier */
-  position:fixed;
-  top:0;
+  background: linear-gradient(to right, rgba(66,66,66,1) 50%, rgba(66,66,66,0) 80%), url('photos/HistoricMill/DB13.jpg') right center;
+  position:relative;
   width:100%;
-  z-index:10;
 }
+
+ .site-header h1{
+    font-size: 4em;
+    color: #D8AD51;
+    margin-bottom:0px;
+    line-height: 1;
+  }
+
+  .site-header h2{
+    font-size: 1em;
+    color: #CBC2B9;
+    letter-spacing: 3px;
+  }
+
+  .site-header h3{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1em;
+  }
+
+  .site-nav{
+    width: 100%;
+    text-align: center;
+
+  }
+
+  .site-nav .page-link{
+    color: white;
+  }
 
 .page-content {
   padding : 30px;
-  margin-top: 120px;
 }
+
+  @media screen and (max-width: 600px){
+    .site-header h1{
+      font-size: 2.5em;
+      color: #D8AD51;
+      margin-bottom:0px;
+      line-height: 1;
+
+    }
+
+    .site-header h2{
+      font-size: 0.8em;
+      letter-spacing: normal;
+    }
+
+    .site-header h3{
+      font-size: 0.6em;
+    }
+
+    .site-nav{
+      width: auto;
+      text-align: center;
+      background-color: white;
+    }
+
+      .site-nav .page-link{
+          color: #424242;
+      }
+  }
