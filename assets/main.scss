@@ -46,6 +46,34 @@
   padding : 30px;
 }
 
+
+.collage{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-image: url('collage.jpg');
+    background-size: 500px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    filter: sepia(60%);
+}
+
+.lily{
+    background-image: url('lily.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 658px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top:20px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+
+}
+
+
+
   @media screen and (max-width: 600px){
     .site-header h1{
       font-size: 2.5em;
@@ -79,28 +107,3 @@
     width: 300px;
   }
   }
-
-.collage{
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    background-image: url('collage.jpg');
-    background-size: 500px;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    filter: sepia(60%);
-}
-
-.lily{
-    background-image: url('lily.jpg');
-    background-position: center;
-    background-size: cover;
-    position: relative;
-    height: 658px;
-    width: 500px;
-    margin: 0 auto;
-    margin-top:20px;
-    box-shadow: 0 0 10px rgba(0,0,0,1);
-
-}
