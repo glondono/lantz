@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Home
+title:
 ---
 
 <div class='collage'>
+  <div class='lily'></div>
 </div>	
-<div class='lily'>
-</div>
