@@ -18,6 +18,14 @@
     line-height: 1;
   }
 
+.site-header h1 a:link{
+    text-decoration: none;
+}
+
+.site-header h1 a:hover {
+    text-decoration: underline;
+}
+
   .site-header h2{
     font-size: 1em;
     color: #CBC2B9;
