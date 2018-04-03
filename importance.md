@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Importance
+layout: page
 ---
 
 The 1885 Atlas of Shenandoah and Page counties shows that there were at least 14 mills on Stony Creek 122 years ago.  Beginning at Edinburg and traveling upstream along Stony Creek, these mills included:  a sawmill at Edinburg, the Whissen gristmill, the Grandstaff grist mill (Edinburg Mill), the S.P. Hollingsworth & Brother’s sawmill, the Vincent & Boehm gristmill, the Lantz grist and sawmill, a gristmill and sawmill at Columbia Furnace, a sawmill and a gristmill upstream of Columbia Furnace, and three gristmills and one feed mill between Liberty Furnace (today’s hamlet of Jerome) and Bayse.  There could have been scores of other mills in Shenandoah County.  Of all the mills in the county, only seven remain standing today:  The Edinburg Mill, the Zirkle Mill (Forestville), the Mount Jackson Mill, the Morgan Carding Mill (Mount Jackson), the Armentrout Mill (Moore’s Store), the Spangler/Artz Mill (Strasburg), and the Stoner/Keller Mill (Fisher’s Hill).   The Edinburg Mill and the Zirkle Mill are listed on the Virginia Landmarks Register and the National Register of Historic Places; the Edinburg Mill and the Lantz Mill are the only mills left along Stony Creek.

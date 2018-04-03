@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Visit the Mill
+layout: page
 ---
 
 The Lantz Mill is located at 95 Swover Creek Rd, approximately two miles west of Edinburg, VA, along Stony Creek.

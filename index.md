@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 ---
 
 <div class='collage'>

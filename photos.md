@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Photographs
+layout: page
 ---
 
 ## Previous Owners of the Mill

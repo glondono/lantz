@@ -1,6 +1,6 @@
 ---
-layout: page
 title: History
+layout: page
 ---
 
 ![alt text]({{site.url}}\history\image1.jpg "Postcard of the hamlet of Lantz Mills from 1908")

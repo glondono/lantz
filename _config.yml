@@ -1,17 +1,29 @@
-theme: "minima"
-url: "https://glondono.github.io/lantz"
-title: "The Lantz Roller Mills Co."
-description: "A Virginia Historic Landmark and on the National Register of Historic Places.\nBuilt c. 1813, Burned 1864, Rebuilt 1865"
-author: "Copyright©\nChrystopher Hernandez-Roy 2018"
-email : "Lantzrollermill@gmail.com"
-logo: "logo.png"
+---
+title: The Lantz Roller Mills Co.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: minima
+url: https://glondono.github.io/lantz
+description: |-
+  A Virginia Historic Landmark and on the National Register of Historic Places.
+  Built c. 1813, Burned 1864, Rebuilt 1865
+author: |-
+  Copyright©
+  Chrystopher Hernandez-Roy 2018
+email: Lantzrollermill@gmail.com
+logo: logo.png
 header_pages:
-  - about.md
-  - history.md
-  - restoration.md
-  - importance.md
-  - photos.md
-  - location.md
-  - contact.md
-
+- about.md
+- history.md
+- restoration.md
+- importance.md
+- photos.md
+- location.md
+- contact.md
 google_analytics: UA-11999650-1

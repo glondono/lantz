@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Restoration
+layout: page
 ---
 
 The Lantz Mill was purchased by the current owners on December 19, 2006 as a project in preservation and restoration for eventual use as an educational and historic site.  The mill was added to the National Register of Historic Places and the Virginia Landmarks Register on June 6, 2008.
